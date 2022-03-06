@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Plato
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Ethereum wasn’t built to handle an insane # of transactions so it gets back up quickly. Polygon is able to handle a higher transaction count and then it bundles up all those transactions up and deposits them to Ethereum as the final source of truth.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Plato is DNS based on Polygon. You can buy your own custom domain and get an NFT to show off your plato domain.
